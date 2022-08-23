@@ -4,14 +4,14 @@ Tutaj jakiś opis i pierdoły
 
 ## Our projects:
 ### - Auth.api
-Znowu opis
-Status:
-[![Node.js CI](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml)
-
+Znowu opis  
+Status:  
+[![Node.js CI](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml)  
+  
 ### - Chat App
-Znowu opis
-Status:
-[![Node.js CI](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml)
+Znowu opis  
+Status:  
+[![Node.js CI](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml)  
 <!--
 
 **Here are some ideas to get you started:**
