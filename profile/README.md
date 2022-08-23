@@ -1,16 +1,16 @@
-### Welcome to Nau Team
+# Welcome to Nau Team
 
 Tutaj jakiś opis i pierdoły
 
 ## Our projects:
 - Auth.api
 Znowu opis
-# Status:
+### Status:
 [![Node.js CI](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml)
 
 - Chat App
 Znowu opis
-# Status:
+### Status:
 [![Node.js CI](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml)
 <!--
 
