@@ -1,5 +1,17 @@
-## Hi there 👋
+### Welcome to Nau Team
 
+Tutaj jakiś opis i pierdoły
+
+## Our projects:
+- Auth.api
+Znowu opis
+# Status:
+[![Node.js CI](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml)
+
+- Chat App
+Znowu opis
+# Status:
+[![Node.js CI](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml)
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,5 +23,3 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[![Node.js CI](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/auth.api/actions/workflows/node.js.yml)
-[![Node.js CI](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nau-Team/chatapp/actions/workflows/node.js.yml)
